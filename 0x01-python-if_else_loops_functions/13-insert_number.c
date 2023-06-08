@@ -32,3 +32,5 @@ listint_t *insert_node(listint_t **head, int number)
 
 	return (new);
 }
+Footer
+© 2023 GitHub, Inc.
